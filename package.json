@@ -1,0 +1,34 @@
+{
+  "name": "implevista-payu-non-seam-less-react",
+  "title": "PayUCheckoutPro React Native Module",
+  "version": "3.0.7",
+  "description": "React native wrapper built upon PayU's CheckoutPro SDK for Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "version": "./version-ios.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nazmultanvir/implevista-payu-non-seamless-react.git",
+    "baseUrl": "https://github.com/nazmultanvir/implevista-payu-non-seamless-react"
+  },
+  "keywords": [
+    "react-native",
+    "payu-india",
+    "android",
+    "ios",
+    "react"
+  ],
+  "author": {
+    "name": "PayU Mobile",
+    "email": "nazmul_tanvir@yahoo.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.6"
+  }
+}
