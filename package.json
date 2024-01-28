@@ -1,7 +1,7 @@
 {
   "name": "implevista-payu-non-seam-less-react",
   "title": "PayUCheckoutPro React Native Module",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "React native wrapper built upon PayU's CheckoutPro SDK for Android and iOS",
   "main": "index.js",
   "scripts": {

@@ -1,8 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-            android:allowBackup="false"
-            android:usesCleartextTraffic="true"
-            tools:replace="android:theme"
-          package="com.payubiz">
-          
+          package="com.payubiz"
+          xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="false"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:icon,android:label,android:theme">
+
+        <!-- Your application components go here -->
+
+    </application>
 
 </manifest>
